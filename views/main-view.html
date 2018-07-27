@@ -1,0 +1,20 @@
+<table>
+	<tr>
+		<th>Employee</th>
+		<th>Class</th>
+		<th>MON</th>
+		<th>TUE</th>
+		<th>WED</th>
+		<th>THU</th>
+		<th>FRI</th>
+		<th>SAT</th>
+		<th>SUN</th>
+	</tr>
+	<!-- EXAMPLE -->
+	<tr ng-repeat="employee in employees">
+		<td>{{employee.name}}</td>
+		<td>C/A</td>
+		<td ng-repeat="day in [0,1,2,3,4,5,6]">1-7</td>
+	</tr>
+	<!-- end EXAMPLE -->
+</table>
