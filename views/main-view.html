@@ -14,7 +14,7 @@
 	<tr ng-repeat="employee in employees">
 		<td>{{employee.name}}</td>
 		<td>C/A</td>
-		<td ng-repeat="day in [1,2,3,4,5,6,7]">{{formatShift(employee.shifts, day)}}</td>
+		<td ng-repeat="day in [1,2,3,4,5,6,0]">{{formatShift(employee.shifts, day)}}</td>
 	</tr>
 	<!-- end EXAMPLE -->
 </table>

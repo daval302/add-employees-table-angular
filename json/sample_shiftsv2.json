@@ -1,0 +1,2882 @@
+[
+    {
+        "id": 60,
+        "name": "RELLA ROSA",
+        "shifts": [
+            {
+                "id": 3679,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3739,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3799,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3859,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3919,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3979,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4039,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "MICCOLI DANIELE",
+        "shifts": [
+            {
+                "id": 3680,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3740,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3800,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3860,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3920,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3980,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4040,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "MAROTTI FRANCESCO",
+        "shifts": [
+            {
+                "id": 3681,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3741,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3801,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3861,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3921,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3981,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4041,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "MASTRODONATO NICOLA",
+        "shifts": [
+            {
+                "id": 3682,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3742,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3802,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3862,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3922,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3982,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4042,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "MOLITERNI GIUSEPPE",
+        "shifts": [
+            {
+                "id": 3683,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3743,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3803,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3863,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3923,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3983,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4043,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "LOCORRIERE ALESSIO",
+        "shifts": [
+            {
+                "id": 3684,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3744,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3804,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3864,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3924,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3984,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4044,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "MARCHESANO FRANCESCA",
+        "shifts": [
+            {
+                "id": 3685,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3745,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3805,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3865,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3925,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3985,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4045,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "ROTOLO VINCENZO",
+        "shifts": [
+            {
+                "id": 3686,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3746,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3806,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3866,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3926,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3986,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4046,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "MASTROROCCO GIUSEPPE",
+        "shifts": [
+            {
+                "id": 3687,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3747,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3807,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3867,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3927,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3987,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4047,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "LONGOBUCCO LUCREZIA",
+        "shifts": [
+            {
+                "id": 3688,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3748,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3808,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3868,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3928,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3988,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4048,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "MONFREDA DAMIANA",
+        "shifts": [
+            {
+                "id": 3689,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3749,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3809,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3869,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3929,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3989,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4049,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "MORGESE VITO ANTONIO",
+        "shifts": [
+            {
+                "id": 3690,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3750,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3810,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3870,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3930,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3990,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4050,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "LABANI SOUMIYA",
+        "shifts": [
+            {
+                "id": 3691,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3751,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3811,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3871,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3931,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3991,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4051,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "LAVARRA MARA",
+        "shifts": [
+            {
+                "id": 3692,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3752,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3812,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3872,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3932,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3992,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4052,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "COLUCCI ILENIA MARIA",
+        "shifts": [
+            {
+                "id": 3693,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3753,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3813,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3873,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3933,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3993,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4053,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "CENTRONE ANGELO",
+        "shifts": [
+            {
+                "id": 3694,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3754,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3814,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3874,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3934,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3994,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4054,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "DELFINE EMMA",
+        "shifts": [
+            {
+                "id": 3695,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3755,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3815,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3875,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3935,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3995,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4055,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "VALERIO MARIA ROSA",
+        "shifts": [
+            {
+                "id": 3696,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3756,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3816,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3876,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3936,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3996,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4056,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "PUGLIESE MELINDA",
+        "shifts": [
+            {
+                "id": 3697,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3757,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3817,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3877,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3937,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3997,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4057,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "GIAMPAOLO STELLA",
+        "shifts": [
+            {
+                "id": 3698,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3758,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3818,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3878,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3938,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3998,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4058,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "DONGHIA THOMAS",
+        "shifts": [
+            {
+                "id": 3699,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3759,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3819,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3879,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3939,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3999,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4059,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "ALLEGRINI ALESSANDRO",
+        "shifts": [
+            {
+                "id": 3700,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3760,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3820,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3880,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3940,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4000,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4060,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "CATINIELLO GIOVANNI",
+        "shifts": [
+            {
+                "id": 3701,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3761,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3821,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3881,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3941,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4001,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4061,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "ANDRIA PAOLO",
+        "shifts": [
+            {
+                "id": 3702,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3762,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3822,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3882,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3942,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4002,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4062,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "ANGELINI MODESTO",
+        "shifts": [
+            {
+                "id": 3703,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3763,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3823,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3883,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3943,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4003,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4063,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "NOTARNICOLA ROSA",
+        "shifts": [
+            {
+                "id": 3704,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3764,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3824,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3884,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3944,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4004,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4064,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "CHIEPPA TERESA",
+        "shifts": [
+            {
+                "id": 3705,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3765,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3825,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3885,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3945,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4005,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4065,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "MORAMARCO MARIA GIROLAM",
+        "shifts": [
+            {
+                "id": 3706,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3766,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3826,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3886,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3946,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4006,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4066,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "CARBONARA MARIA",
+        "shifts": [
+            {
+                "id": 3707,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3767,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3827,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3887,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3947,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4007,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4067,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "DE COSMIS DOMENICO",
+        "shifts": [
+            {
+                "id": 3708,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3768,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3828,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3888,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3948,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4008,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4068,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "MONTALBO ANTONIO VITO",
+        "shifts": [
+            {
+                "id": 3709,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3769,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3829,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3889,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3949,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4009,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4069,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "VITALE NICOLA",
+        "shifts": [
+            {
+                "id": 3710,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3770,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3830,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3890,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3950,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4010,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4070,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "GUSMAI ANNAMARIA",
+        "shifts": [
+            {
+                "id": 3711,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3771,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3831,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3891,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3951,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4011,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4071,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "GRECO FRANCESCA",
+        "shifts": [
+            {
+                "id": 3712,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3772,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3832,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3892,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3952,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4012,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4072,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "ZITO ANNA MARIA",
+        "shifts": [
+            {
+                "id": 3713,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3773,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3833,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3893,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3953,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4013,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4073,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "PERRONE GABRIELLA",
+        "shifts": [
+            {
+                "id": 3714,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3774,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3834,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3894,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3954,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4014,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4074,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "SIFANNO GAETANO",
+        "shifts": [
+            {
+                "id": 3715,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3775,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3835,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3895,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3955,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4015,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4075,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "LIUZZI LUIGI",
+        "shifts": [
+            {
+                "id": 3716,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3776,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3836,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3896,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3956,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4016,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4076,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "ANGELINI PASQUALE",
+        "shifts": [
+            {
+                "id": 3717,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3777,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3837,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3897,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3957,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4017,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4077,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "CORMIO CESARE",
+        "shifts": [
+            {
+                "id": 3718,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3778,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3838,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3898,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3958,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4018,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4078,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "PAPPALARDO CIRO",
+        "shifts": [
+            {
+                "id": 3719,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3779,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3839,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3899,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3959,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4019,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4079,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "NETTI GIUSEPPE",
+        "shifts": [
+            {
+                "id": 3720,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3780,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3840,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3900,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3960,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4020,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4080,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "PALMISANO LEONARDO",
+        "shifts": [
+            {
+                "id": 3721,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3781,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3841,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3901,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3961,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4021,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4081,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "PANARO COSIMO",
+        "shifts": [
+            {
+                "id": 3722,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3782,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3842,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3902,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3962,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4022,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4082,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "GIAMPALMO FRANCESCO",
+        "shifts": [
+            {
+                "id": 3723,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3783,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3843,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3903,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3963,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4023,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4083,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "LISO VITO",
+        "shifts": [
+            {
+                "id": 3724,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3784,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3844,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3904,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3964,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4024,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4084,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "GIOIA ROCCO",
+        "shifts": [
+            {
+                "id": 3725,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3785,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3845,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3905,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3965,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4025,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4085,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "LIUZZI DONATO",
+        "shifts": [
+            {
+                "id": 3726,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3786,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3846,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3906,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3966,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4026,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4086,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "MARCHIONNA RAFFAELE",
+        "shifts": [
+            {
+                "id": 3727,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3787,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3847,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3907,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3967,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4027,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4087,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "GIUSTINO VIOLA",
+        "shifts": [
+            {
+                "id": 3728,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3788,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3848,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3908,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3968,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4028,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4088,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "NINIVAGGI MICHELE ROBERTO",
+        "shifts": [
+            {
+                "id": 3729,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3789,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3849,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3909,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3969,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4029,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4089,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "DIDONNA ANGELO",
+        "shifts": [
+            {
+                "id": 3730,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3790,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3850,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3910,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3970,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4030,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4090,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "PALMIROTTA ELIO",
+        "shifts": [
+            {
+                "id": 3731,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3791,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3851,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3911,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3971,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4031,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4091,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "13-19"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "LEOGRANDE ANDREA",
+        "shifts": [
+            {
+                "id": 3732,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3792,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3852,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3912,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3972,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4032,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4092,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "PARISI MIRIANA",
+        "shifts": [
+            {
+                "id": 3733,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3793,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3853,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3913,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3973,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4033,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4093,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "DAMMICCO ADRIANA",
+        "shifts": [
+            {
+                "id": 3734,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3794,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3854,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3914,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3974,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4034,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4094,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "CONVERTINO MARIA ANTONI",
+        "shifts": [
+            {
+                "id": 3735,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3795,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3855,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3915,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3975,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4035,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4095,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "ZECCHINO LUISA",
+        "shifts": [
+            {
+                "id": 3736,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3796,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3856,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3916,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3976,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4036,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 4096,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-13"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "CAMPANELLA MICHELANGELO",
+        "shifts": [
+            {
+                "id": 3737,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3797,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3857,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3917,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3977,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4037,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 4097,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "7-19"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "RUTIGLIANO PASQUALE ROB",
+        "shifts": [
+            {
+                "id": 3738,
+                "date": "2018-08-01",
+                "note": null,
+                "slot": "OFF"
+            },
+            {
+                "id": 3798,
+                "date": "2018-08-02",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 3858,
+                "date": "2018-08-03",
+                "note": null,
+                "slot": "7-19"
+            },
+            {
+                "id": 3918,
+                "date": "2018-08-04",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 3978,
+                "date": "2018-08-05",
+                "note": null,
+                "slot": "13-19"
+            },
+            {
+                "id": 4038,
+                "date": "2018-08-06",
+                "note": null,
+                "slot": "7-13"
+            },
+            {
+                "id": 4098,
+                "date": "2018-08-07",
+                "note": null,
+                "slot": "OFF"
+            }
+        ]
+    }
+]

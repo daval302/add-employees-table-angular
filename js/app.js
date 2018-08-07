@@ -8,7 +8,7 @@
 		
 		$scope.employees = [];
 
-		$http.get('json/sample_shifts.json')
+		$http.get('json/sample_shiftsv2.json')
 			.then(shiftsLoaded)
 			.catch(shiftsLoadFailed)
 
@@ -28,24 +28,8 @@
 			if (!shift) {
 				return "";
 			}
-			var [startTime, endTime] = shift.value.split("-")
-	
-			return startShift(startTime) + "-" + endShift(endTime)
-		}
-		function startShift(startTime) {
-			switch (startTime) {
-				case "1": return 13;
-				case "3": return 15;
-				default: return startTime;
-			}
-		}
-		function endShift(endTime) {
-			switch (endTime) {
-				case "1": return 13;
-				case "3": return 15;
-				case "7": return 19;
-				default: return endTime;
-			}
+
+			return shift.slot
 		}
 	}])
 
