@@ -14,7 +14,17 @@
 	<tr ng-repeat="employee in employees">
 		<td>{{employee.name}}</td>
 		<td>C/A</td>
-		<td ng-repeat="day in [1,2,3,4,5,6,0]">{{formatShift(employee.shifts, day)}}</td>
+		<td ng-repeat="day in [1,2,3,4,5,6,0]">
+			<div shiftid="{{getId(employee.shifts, day)}}">{{formatShift(employee.shifts, day)}}</div>
+		</td>
 	</tr>
 	<!-- end EXAMPLE -->
 </table>
+
+<form>
+	<label for="shiftEdit">{{shiftEdit}}</label>
+	<input type="text" name="shiftEdit" placeholder="new slot">
+	<input type="button" name="edit" value="edit">
+	<input type="button" name="delete" value="delete">
+	<input type="button" name="undo" value="undo">
+</form>
