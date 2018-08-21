@@ -48,10 +48,12 @@
 
 		function yellow(elemSelector){
 			elemSelector.css({"background-color": "yellow"});
+			elemSelector.attr('selezionato', 'true')
 		}
 
 		function unyellow(elemSelector){
 			elemSelector.css({"background-color": ""});
+			elemSelector.attr('selezionato', 'false');
 		}
 
 		function updateFormOnHoverElement(mainElem, elemSelector){
@@ -82,10 +84,15 @@
 			} );
 		}
 
+		// BUTTONS edit, delete, undo
+
 		function undo(mainElem){
 			unbindSlots(mainElem);
-			// ..
+			selectingSlots(mainElem, slotSelector);
+			unyellow(mainElem.find('div[selezionato=true]'));
 		}
+
+		// end -- BUTTONS edit, delete, undo
 
 
 		return {
@@ -97,8 +104,13 @@
 						selectingSlots(elem, slotSelector);
 						$interval.cancel( scope.renderingTable )
 					}
-
-				}, 500)
+				}, 500);
+				
+				// BUTTONS edit, delete, undo listeners
+				elem.find('input[name=undo]').click(function(){
+					undo(elem)
+				});
+				// end BUTTONS edit, delete, undo listeners
 			}
 		}
 	})
