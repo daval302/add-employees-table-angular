@@ -44,17 +44,49 @@
 
 	.directive('mainView', function($interval){
 
-		var inputElem = "<input type='button' value='edit'><input type='button' value='delete'>";
+		var slotSelector = 'div[shiftid]';
 
-		function triggers(i, e){
-			var oldval = $(this).html();
-			$(this).hover(function(){
+		function yellow(elemSelector){
+			elemSelector.css({"background-color": "yellow"});
+		}
+
+		function unyellow(elemSelector){
+			elemSelector.css({"background-color": ""});
+		}
+
+		function updateFormOnHoverElement(mainElem, elemSelector){
+			var oldval = elemSelector.html();
+			elemSelector.hover(function(){
 				// put the selected item down below within a form to edit
-				elem.find("label[for=shiftEdit]").html(oldval);
+				mainElem.find("label[for=shiftEdit]").html(oldval);
 			}, function(){
 				$(this).html(oldval)
-			})
+			});
 		}
+
+		function unbindSlots(mainElem){
+			mainElem.find('div[shiftid]').each(function(i,e){
+					$(this).unbind('mouseenter mouseleave click');
+				})
+		}
+
+		function selectingSlots(mainElem, slotSelector){
+			mainElem.find(slotSelector).each(function(i,e){
+				updateFormOnHoverElement(mainElem, $(this));
+				// trigger the selection to edit the shift
+				$(this).click(function(){
+					// freeze the input, so stop listening for hovering
+					yellow($(this));
+					unbindSlots(mainElem);
+				});
+			} );
+		}
+
+		function undo(mainElem){
+			unbindSlots(mainElem);
+			// ..
+		}
+
 
 		return {
 			templateUrl: 'views/main-view.html',
@@ -62,23 +94,7 @@
 			link: function(scope, elem, attr){
 				scope.renderingTable = $interval(function(){
 					if (scope.employees.length == elem.find('tr').length - 1){
-						elem.find('div[shiftid]').each(function(i,e){
-							var oldval = $(this).html();
-							$(this).hover(function(){
-								// put the selected item down below within a form to edit
-								elem.find("label[for=shiftEdit]").html(oldval);
-							}, function(){
-								$(this).html(oldval)
-							});
-							// trigger the selection to edit the shift
-							$(this).click(function(){
-								// freeze the input, so stop listening for hovering
-								$(this).css({"background-color": "yellow"});
-								elem.find('div[shiftid]').each(function(i,e){
-									$(this).unbind('mouseenter mouseleave click')
-								});
-							});
-						} );
+						selectingSlots(elem, slotSelector);
 						$interval.cancel( scope.renderingTable )
 					}
 
