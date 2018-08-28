@@ -9,6 +9,11 @@
 		$scope.employees = [];
 		$scope.shiftEdit = "N/A";
 
+		$scope.editList = [];
+		$scope.deleteList = [];
+		$scope.deb = false;
+		$scope.slotInput = "";
+
 		$http.get('json/sample_shiftsv2.json')
 			.then(shiftsLoaded)
 			.catch(shiftsLoadFailed)
@@ -60,7 +65,7 @@
 			var oldval = elemSelector.html();
 			elemSelector.hover(function(){
 				// put the selected item down below within a form to edit
-				mainElem.find("label[for=shiftEdit]").html(oldval);
+				mainElem.find("label[for=shiftEdit]").html(oldval).attr('shiftid', elemSelector.attr('shiftid'));
 			}, function(){
 				$(this).html(oldval)
 			});
@@ -92,6 +97,33 @@
 			unyellow(mainElem.find('div[selezionato=true]'));
 		}
 
+		function edit(scope, mainElem){
+			var labelElem = mainElem.find('label[for=shiftEdit]');
+			var selectedId = labelElem.attr('shiftid');
+			var selectedSlot = labelElem.html();
+			var newSlot = scope.slotInput;
+
+			if (newSlot != selectedSlot && newSlot.length >= 3){
+				var duplicates = false;
+
+				for (var i = scope.editList.length - 1; i >= 0; i--) {
+					if (scope.editList[i]['id'] == selectedId){
+						duplicates=true; break;}/*end for*/}
+				if (duplicates){
+					scope.editList[i]['slot'] = newSlot;
+				}else{
+					scope.editList.push({'id': selectedId, 'slot': newSlot});
+				}
+				scope.$apply();				
+			}
+
+
+		}
+
+		function add(){
+			// ...
+		}
+
 		// end -- BUTTONS edit, delete, undo
 
 
@@ -110,6 +142,13 @@
 				elem.find('input[name=undo]').click(function(){
 					undo(elem)
 				});
+				elem.find('input[name=edit]').click(function(){
+					edit(scope, elem )
+				});
+				elem.find('input[name=deb]').click(function(){
+					scope.deb = !scope.deb;
+					scope.$apply();
+				})
 				// end BUTTONS edit, delete, undo listeners
 			}
 		}

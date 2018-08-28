@@ -23,8 +23,22 @@
 
 <form>
 	<label for="shiftEdit">{{shiftEdit}}</label>
-	<input type="text" name="shiftEdit" placeholder="new slot">
+	<input type="text" name="shiftEdit" placeholder="new slot" ng-model="slotInput">
 	<input type="button" name="edit" value="edit">
 	<input type="button" name="delete" value="delete">
-	<input type="button" name="undo" value="undo" ng-click="undo()">
+	<input type="button" name="undo" value="undo">
+	<input type="button" name="deb" value="deb">
 </form>
+
+<div ng-show="deb" >
+	<p>Debugging</p>
+	<div ng-if="editList.length == 0" >
+		No data
+	</div>
+	Current slot : {{slotInput}} <br>
+	Shifts to be edited
+	<div ng-repeat="shift in editList">
+		id : {{shift.id}} <br>
+		slot : {{shift.slot}} <br>
+	</div>
+</div>
