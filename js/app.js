@@ -121,8 +121,20 @@
 
 		}
 
-		function add(){
-			// ...
+		function deleteShift(scope, mainElem){
+			var labelElem = mainElem.find('label[for=shiftEdit]');
+			var selectedId = labelElem.attr('shiftid');
+
+			var duplicates = false;
+
+			for (var i = scope.deleteList.length - 1; i >= 0; i--) {
+				if (scope.deleteList[i]['id'] == selectedId){
+					duplicates=true; break;}/*end for*/}
+			if (!duplicates){
+				scope.deleteList.push({'id': selectedId});
+			}
+			if (scope.deb == true)
+				scope.$apply();		
 		}
 
 		// end -- BUTTONS edit, delete, undo
@@ -145,6 +157,9 @@
 				});
 				elem.find('input[name=edit]').click(function(){
 					edit(scope, elem )
+				});
+				elem.find('input[name=delete]').click(function(){
+					deleteShift(scope, elem )
 				});
 				elem.find('input[name=deb]').click(function(){
 					scope.deb = !scope.deb;
