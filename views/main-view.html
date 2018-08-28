@@ -22,6 +22,12 @@
 </table>
 
 <form>
+	<label for="fullname">Fullname</label>
+	<input type="text" name="fullname" placeholder="ex. Roberto di Stasi">
+	<input type="button" name="newEmployeeButton" value="Add" >
+</form>
+
+<form>
 	<label for="shiftEdit">{{shiftEdit}}</label>
 	<input type="text" name="shiftEdit" placeholder="new slot" ng-model="slotInput">
 	<input type="button" name="edit" value="edit">
@@ -32,13 +38,23 @@
 
 <div ng-show="deb" >
 	<p>Debugging</p>
-	<div ng-if="editList.length == 0" >
-		No data
-	</div>
-	Current slot : {{slotInput}} <br>
-	Shifts to be edited
-	<div ng-repeat="shift in editList">
-		id : {{shift.id}} <br>
-		slot : {{shift.slot}} <br>
-	</div>
+	<ol>
+		<li ng-if="editList.length == 0">No data</li>
+		<li>Current slot : {{slotInput}}</li>
+		<li>
+			Shifts to be edited:
+			<ul>
+				<li ng-repeat="shift in editList">
+					id : {{shift.id}} <br>
+					slot : {{shift.slot}}  <br>
+				</li>
+			</ul>
+		</li>
+	</ol>
+	
+
+	
+	
+
+
 </div>

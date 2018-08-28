@@ -114,7 +114,8 @@
 				}else{
 					scope.editList.push({'id': selectedId, 'slot': newSlot});
 				}
-				scope.$apply();				
+				if (scope.deb == true)
+					scope.$apply();				
 			}
 
 
