@@ -8,6 +8,8 @@
 		
 		$scope.employees = [];
 		$scope.shiftEdit = "N/A";
+		$scope.addNewEmployee = "";
+		$scope.debdeb = [];
 
 		$scope.editList = [];
 		$scope.deleteList = [];
@@ -139,6 +141,27 @@
 
 		// end -- BUTTONS edit, delete, undo
 
+		// add new emplyee 
+
+		function addNewEmployee(scope, mainElem){;
+			scope.employees.push({
+				'name' : scope.addNewEmployee,
+				'shifts' : (function(){
+					var ret = [];
+					for (var i = 1; i <= 7 ; i++) {
+						ret.push({
+							"date" : "2018-08-0" + i.toString(),
+							"slot" : "OFF"
+						})/*end for loop*/}
+					return ret;
+				})()
+			});
+			scope.$apply();
+			unbindSlots(mainElem)
+			selectingSlots(mainElem, slotSelector);
+		}
+
+		// end add new emplyee  
 
 		return {
 			templateUrl: 'views/main-view.html',
@@ -160,6 +183,9 @@
 				});
 				elem.find('input[name=delete]').click(function(){
 					deleteShift(scope, elem )
+				});
+				elem.find('input[name=newEmployeeButton]').click(function(){
+					addNewEmployee(scope, elem)
 				});
 				elem.find('input[name=deb]').click(function(){
 					scope.deb = !scope.deb;

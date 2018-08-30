@@ -23,7 +23,7 @@
 
 <form>
 	<label for="fullname">Fullname</label>
-	<input type="text" name="fullname" placeholder="ex. Roberto di Stasi">
+	<input type="text" name="fullname" placeholder="ex. Roberto di Stasi" ng-model="addNewEmployee">
 	<input type="button" name="newEmployeeButton" value="Add" >
 </form>
 
@@ -58,6 +58,8 @@
 				</li>
 			</ul>
 		</li>
+		<li>Current Employee: {{addNewEmployee}}</li>
+		<li>{{debdeb | json}}</li>
 	</ol>
 	
 
