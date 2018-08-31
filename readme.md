@@ -1,6 +1,6 @@
 ### Add Employee table throw modal
 
-I need to develop an app to add employees end working slot hours in a table that rapresent 1 Rota week working hours
+Feature already integrated in [100DaysOfMLCode](https://github.com/daval302/100DaysOfMLCode)
 
 Some key features:
 
